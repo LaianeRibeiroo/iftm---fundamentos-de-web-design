@@ -1,0 +1,30 @@
+li{
+    color: rgb(207, 6, 6);
+}
+h3{
+    text-align: left;
+    padding-left: 45px;
+}
+ol{
+    list-style-position: inside;
+    padding-left: 5px;
+    width: 550px;
+}
+x{
+    font-weight: bold ;
+    color: rgb(7, 7, 6);
+    padding-left: 5px;
+}
+y{color: rgb(70, 8, 171);}
+
+.titulo1{
+    background-color: rgb(188, 240, 214);
+    border-radius: 10px;
+    padding-left: 15px;
+}
+
+.titulo2{
+    background-color: rgb(145, 246, 167);
+    border-radius: 10px;
+    padding-left: 15px;
+}

@@ -1,0 +1,62 @@
+.botao1 {
+    background-color: #0df014; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-weight: bold;
+    border: 2px solid #080808;
+    color: aliceblue;
+  }
+
+  .botao2 {
+    background-color: #edf108; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-weight: bold;
+    border: 2px solid #080808;
+    color: blueviolet;
+  }
+  .botao3 {
+    background-color: #2109f5; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-weight: bold;
+    border: 2px solid #080808;
+    color: hotpink;
+  }
+
+  .botao4 {
+    background-color: #ee0909; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-weight: bold;
+    border: 2px solid #080808;
+    color: lightskyblue;
+  }
