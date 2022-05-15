@@ -1,0 +1,76 @@
+.item1 {
+    grid-area: header;
+    text-align: center;
+}
+.item2 {
+    grid-area: menu;
+    font-size: 15px;
+  }
+.item3 {grid-area: main;}
+.item4 {
+    grid-area: right;
+    font-size:10px;
+}
+.item5 {grid-area: footer1;}
+
+.item6 {
+    grid-area: footer2;
+    font-size: 20px;
+}
+
+.item7 {grid-area: item7;}
+
+.item8 {grid-area: item8;}
+
+.grid-container {
+display: grid;
+grid-template-areas:
+'header header header header header header'
+'menu main main item8 right right'
+'menu footer1 footer1 footer2 footer2 footer2'
+'item7 item7 item7 item7 item7 item7 ';
+gap: 10px;
+background-color:white
+padding: 10px;
+}
+ul{
+    font-size: 14px;
+    text-align: left;
+}
+.grid-container > div {
+background-color: rgba(255, 255, 255, 0.8);
+text-align: center;
+padding: 20px 0;
+font-size: 30px;
+}
+
+#imagem{
+width: 350px;
+justify-content: center;
+}
+
+#imagemtopo{
+margin: 0px!important;
+padding: 0px !important;
+right: 100%;
+}
+.listafotos{
+    list-style-type: none; /* determina que a lista não tenha pontinhos */
+    width: 150px;
+    height: 150px;
+    cursor: pointer;
+}
+
+.listaimgs{
+    width: 150px;
+    height: 150px;
+}
+
+#imagemfundo{
+    margin: 0px!important;
+    padding: 0px !important;
+    right: 100%;
+    }
+
+h1,h2,h3{margin: 0px;}
+ul,li{margin: 0px;}

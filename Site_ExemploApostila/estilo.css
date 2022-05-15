@@ -1,0 +1,64 @@
+html{
+    background-color: beige;
+    color: dimgrey;
+}
+
+.titulograndao{
+    background-color: burlywood;
+    color: rgb(5, 5, 5);
+    border: 5px  rgb(15, 1, 1);
+    top:20px;
+    left:50px;
+    padding: auto;
+
+    text-align: center;
+  }
+.titulomenor {color: rgb(17, 16, 16);
+             text-align: center;
+             border-style: double;
+             border-radius: 20;
+             padding:10;
+             width: 600px;
+             position: center;
+             margin-left: auto;
+             margin-right: auto; 
+      
+}
+.paragrafo1{
+        font-size: 25px;
+        color:rgb(124, 124, 124)
+}
+
+.paragrafo2{
+    font-size: 20px;
+    color:rgba(67, 68, 49, 0.397);
+}
+
+
+#diferente{
+    border: 2px solid rgb(56, 54, 54);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 15px;
+    width: 920px;
+    height: 60px;
+    font-size: 5;
+    color: aliceblue;
+    background-color: rgb(219, 140, 84);
+}
+#fotopensador{
+    width: 250px;
+    float:left;
+    margin-right: 10px;
+    border: 5px solid rgb(75, 74, 74);
+    border-radius: 10px;
+}
+#fotopensador2{
+    width: 250px;
+    float:right;
+    margin-left: 10px;
+    border : 5px solid rgb(75, 74, 74);
+    border-radius: 10px;
+
+}
+

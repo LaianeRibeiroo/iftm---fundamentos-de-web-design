@@ -1,0 +1,32 @@
+.site {grid-area: site;}
+.menu {grid-area: menu;}
+.foto {grid-area: foto;}
+.titulo {grid-area: titulo;}
+.noticia {
+    grid-area: noticia;
+    margin: 0px!important;
+    padding: 0px !important;
+    right: 100%;
+}
+
+.news {
+display: grid;
+grid-template-areas:
+'site site site'
+'menu foto foto'
+'menu noticia noticia';
+gap: 10px;
+background-color: #2196F3;
+padding: 10px;
+}
+
+.news > div {
+text-align: center;
+padding: 20px 0;
+font-size: 30px;
+border: 1px solid black;
+}
+
+#fotof{
+    width: 350px;
+}

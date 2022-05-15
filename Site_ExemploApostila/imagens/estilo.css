@@ -1,0 +1,21 @@
+html{
+    background-color: beige;
+    color: dimgrey;
+}
+
+.titulograndao{
+    background-color: burlywood;
+    color: chocolate;
+  }
+.titulomenor {color: chocolate;}
+.paragrafo1{font-size: 20px;}
+
+.paragrafo2{
+    font-size: 15px;
+    color: red;
+}
+#fotopensador{
+    width: 850px;
+    float:left;
+    margin-right: 10px;
+}
