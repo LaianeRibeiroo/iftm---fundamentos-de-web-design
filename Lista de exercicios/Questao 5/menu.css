@@ -1,0 +1,17 @@
+
+.menu{
+    width:150px;
+	height:20px;
+	background-color:rgb(224, 49, 49);
+	border-radius: 10px;
+    text-align:center;
+    text-orientation: sideways-right;
+    text size: 30px;
+    margin:20px;
+    box-shadow: 5px 5px 5px black;
+}
+
+#1:hover{
+    box-shadow: 5px 5px 5px black;
+    margin-left: 20px;
+}
