@@ -1,17 +1,30 @@
 
+
+ul{list-style: none;}
 .menu{
-    width:150px;
-	height:20px;
-	background-color:rgb(224, 49, 49);
+   	background-color:rgb(247, 148, 34);
 	border-radius: 10px;
-    text-align:center;
-    text-orientation: sideways-right;
-    text size: 30px;
-    margin:20px;
+    font-size: 30px; 
     box-shadow: 5px 5px 5px black;
+    margin: 20px;
+	-moz-transition: all 0.4s;
+	-webkit-transition: all 0.4s;
+	transition: all 0.4s;
+    width: 250px;
+    right: 100px;
+    padding: 10px;
+    color: darkviolet;
+  
+}
+body{
+    background-color: brown;
+}
+li:hover{
+    box-shadow: 5px 5px 5px black;
+    margin-left: 40px;
+   	-moz-transition: all 0.4s;
+	-webkit-transition: all 0.4s;
+	transition: all 0.4s;
+    padding: 20px;
 }
 
-#1:hover{
-    box-shadow: 5px 5px 5px black;
-    margin-left: 20px;
-}

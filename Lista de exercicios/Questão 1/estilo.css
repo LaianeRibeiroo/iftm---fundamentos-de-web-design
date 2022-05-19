@@ -1,0 +1,26 @@
+caption{
+    width: 412px;
+    text-align: center;
+    background: lightgray;
+}
+table.tab1{
+    border: 1px solid black;
+    text-align: center;
+    border-spacing: 0px;
+    background-color:white;
+    }
+td{
+    border: 1px solid black;
+    text-align: center;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+}
+
+th{
+    background: lightgray;
+    border: 1px solid black;
+}
+tr:nth-child(even) {
+    background: lightgray;
+  }
