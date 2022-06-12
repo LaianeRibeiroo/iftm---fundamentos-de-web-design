@@ -1,0 +1,51 @@
+html{
+    width: 80%;
+    /*para centralizar*/
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+    }
+        
+li{
+   display: inline;
+   margin-left: 20px;
+   margin-right: 20px;
+   }
+
+   .flutua{
+       float:left;
+   }
+   .voltar{
+    float:right;
+    color: red;
+    margin-top: 20px;
+    font-weight: bold;
+    }
+
+    .btvoltar{
+        float:left;
+        width: 20px;
+        margin: 25px 10px 0px 0px;
+        }
+
+#titulo{
+    font-size: 30px;
+    text-align: center;
+}
+
+.menuflutuante {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    }
+
+#menu li:hover {
+    padding: 20px 0px 17px 0px;
+    background-color: gray;
+    color: yellow;
+    border-bottom: 3px solid red;
+    }
+
+.espaco{height: 50px;}
